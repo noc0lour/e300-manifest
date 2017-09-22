@@ -19,7 +19,7 @@
 	<default remote="openembedded" revision="master"  />
 
 	<project name="meta-ettus" remote="ettus" path="meta-ettus" revision="fb6a85a8a823f5b8da49a736417859df945e404e" />
-	<project name="bitbake"  path="bitbake" revision="9c0f6e81dae0b91b425e6c0cdf64caa5c15d92b5" />
+	<project name="bitbake"  path="bitbake" revision="fdb6c123593fd2255b9b09e6bdf7306d64a82892" />
 	<project name="openembedded-core"  path="oe-core" revision="a9db40da62c13b0010ce5afc1fde16d987bdfbc6" />
 	<project name="meta-openembedded"  path="meta-oe" revision="2ea8d7f54a061e902657c4f8ea1f7f7c25c6c4e1"  />
 	<project name="meta-xilinx" remote="Xilinx" path="meta-xilinx" revision="b271330b745ead404ddb8a9912db44da6fbbf968" />
